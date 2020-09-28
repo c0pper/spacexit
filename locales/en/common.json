@@ -13,12 +13,12 @@
 	},
 	"starlink-mission-h2": "recent launch",
 	"starlink-mission-h1": "starlink mission",
-	"crew-dragon-h2": "MISSION COMPLETE"
-	"crew-dragon-h1": "CREW DRAGON RETURNS FROM SPACE STATION"
-	"starship-flight-h1": "STARSHIP TAKES FLIGHT"
-	"returning-human-h1": "RETURNING HUMAN SPACEFLIGHT TO THE UNITED STATES"
-	"dock-sim-h1": "CREW DRAGON DOCKING SIMULATOR"
-	"dock-sim-par": "Crew Dragon is designed to autonomously dock and undock with the International Space Station. However, the crew can take manual control of the spacecraft if necessary."
-	"nasa-selects-h1": "NASA SELECTS LUNAR OPTIMIZED STARSHIP"
+	"crew-dragon-h2": "MISSION COMPLETE",
+	"crew-dragon-h1": "CREW DRAGON RETURNS FROM SPACE STATION",
+	"starship-flight-h1": "STARSHIP TAKES FLIGHT",
+	"returning-human-h1": "RETURNING HUMAN SPACEFLIGHT TO THE UNITED STATES",
+	"dock-sim-h1": "CREW DRAGON DOCKING SIMULATOR",
+	"dock-sim-par": "Crew Dragon is designed to autonomously dock and undock with the International Space Station. However, the crew can take manual control of the spacecraft if necessary.",
+	"nasa-selects-h1": "NASA SELECTS LUNAR OPTIMIZED STARSHIP",
 	"nasa-selects-par": "NASA selected SpaceX to develop a lunar optimized Starship to transport crew between lunar orbit and the surface of the Moon as part of NASA’s Artemis program"
 }
