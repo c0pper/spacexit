@@ -2,5 +2,13 @@
     "button": {
         "tryIt": "try it"
     },
-    "title": "hello"
+    "menu":{
+    	"falcon9": "FALCON 9",
+    	"falconheavy": "FALCON HEAVY",
+	    "dragon": "DRAGON",
+	    "starship": "STARSHIP",
+	    "humanspaceflight": "HUMAN SPACEFLIGHT",
+	    "rideshare": "RIDESHARE"    
+    }
+    
 }
