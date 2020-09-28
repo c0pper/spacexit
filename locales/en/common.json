@@ -1,17 +1,18 @@
 {
-    "button": {
-        "tryIt": "try it"
-    },
-    "menu":{
-    	"falcon9": "FALCON 9",
-    	"falconheavy": "FALCON HEAVY",
-	    "dragon": "DRAGON",
-	    "starship": "STARSHIP",
-	    "humanspaceflight": "HUMAN SPACEFLIGHT",
-	    "rideshare": "RIDESHARE"    
-    },
-    "starlink-mission-h2": "recent launch.",
-    "starlink-mission-h1": "starlink mission"  
+	"button": {
+		"tryIt": "try it"
+	},
+	"menu":{
+		"falcon9": "FALCON 9",
+		"falconheavy": "FALCON HEAVY",
+		"dragon": "DRAGON",
+		"starship": "STARSHIP",
+		"humanspaceflight": "HUMAN SPACEFLIGHT",
+		"rideshare": "RIDESHARE"    
+	},
+	"starlink-mission-h2": "recent launch.",
+	"starlink-mission-h1": "starlink mission",
+	"replay": "replay."
     
     
 }
