@@ -9,6 +9,16 @@
 	    "starship": "STARSHIP",
 	    "humanspaceflight": "VOLO CON EQUIPAGGIO",
 	    "rideshare": "RIDESHARE"    
-    }
-    
+    },
+	"starlink-mission-h2": "lancio recente",
+	"starlink-mission-h1": "missione starlink",
+	"crew-dragon-h2": "missione completa",
+	"crew-dragon-h1": "la capsula CREW DRAGON rientra dalla stazione spaziale",
+	"starship-flight-h1": "STARSHIP decolla",
+	"returning-human-h1": "gli stati uniti tornano nello spazio",
+	"dock-sim-h1": "simulatore sistema di attracco della crew dragon",
+	"dock-sim-par": "La capsula crew Dragon  è progettata per attraccare e sganciarsi autonomamente dalla Stazione Spaziale Internazionale. Se necessario, l'equipaggio può assumere il controllo manuale del veicolo in ogni momento.",
+	"nasa-selects-h2": "01/05/2020"
+	"nasa-selects-h1": "la NASA sceglie STARSHIP",
+	"nasa-selects-par": "Nell'ambito del programma Artemis, la NASA ha affidato a SpaceX lo sviluppo di una Starship in confifurazione lunare per il trasporto dell'equipaggio dall'orbita alla superficie della Luna."
 }
