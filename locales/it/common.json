@@ -1,6 +1,7 @@
 {
     "button": {
         "tryIt": "provalo"
+	"replay": "video"
     },
     "menu":{
     	"falcon9": "FALCON 9",
