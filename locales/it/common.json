@@ -1,4 +1,7 @@
 {
+    "counter-total-launches": "lanci totali",
+    "counter-total-landings": "atterraggi totali",
+    "counter-reflown-rockets": "riutilizzi totali",
     "button": {
         "tryIt": "provalo",
 	"replay": "video"
